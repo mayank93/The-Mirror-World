@@ -1,0 +1,28 @@
+# All numbers are in floating point except for number of items
+1000.000000 700.000000  # width (x) and height (y) of the world
+5 # number of Projectors
+-100.000000 -250.000000 -100.000000 -350.000000    #Project 1 line: x1 y1 x2 y2
+50.000000  # Distance(d) to the point light source
+5   # Number of pixels in the Projector
+-100.000000 -150.000000 100.000000 -150.000000    #Project 2 line: x1 y1 x2 y2
+50.000000  # Distance(d) to the point light source
+681   # Number of pixels in the Projector
+-200.000000 -200.000000 -250.000000 -250.000000    #Project 3 line: x1 y1 x2 y2
+50.000000  # Distance(d) to the point light source
+5   # Number of pixels in the Projector
+250.000000 -250.000000 200.000000 -200.000000    #Project 4 line: x1 y1 x2 y2
+50.000000  # Distance(d) to the point light source
+5   # Number of pixels in the Projector
+200.000000 200.000000 100.000000 100.000000    #Project 5 line: x1 y1 x2 y2
+50.000000  # Distance(d) to the point light source
+5   # Number of pixels in the Projector
+3 # number of Blocks
+-230.000000 -100.000000 -180.000000 -40.000000     # Block 1: x1 y1 x2 y2
+-250.000000 250.000000 225.000000 150.000000     # Block 2: x1 y1 x2 y2
+400.000000 40.000000 175.000000 20.000000     # Block 3: x1 y1 x2 y2
+5 # number of Mirror
+-250.000000 10.000000 -100.000000 50.000000    # Mirror 1: x1 y1 x2 y2 
+-120.000000 117.000000 30.000000 32.000000    # Mirror 2: x1 y1 x2 y2 
+150.000000 20.000000 350.000000 -40.000000    # Mirror 3: x1 y1 x2 y2 
+-350.000000 -180.000000 -350.000000 280.000000    # Mirror 4: x1 y1 x2 y2 
+-90.000000 135.000000 120.000000 130.000000    # Mirror 5: x1 y1 x2 y2 
